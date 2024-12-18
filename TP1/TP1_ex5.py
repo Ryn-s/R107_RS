@@ -1,3 +1,5 @@
 import random
-nombre_aleatoire = random.randint(0,100)
-print("Le nombre aléatoire généré est:",nombre_aleatoire)
+
+nombre_aleatoire = random.randint(0, 100)
+
+print(f"Nombre aléatoire généré : {nombre_aleatoire}")
