@@ -3,9 +3,4 @@ epuree = ""
 for c in mot:
     if c.isalpha():
         c+= epuree
-
-
 print(c)
-
-
-
